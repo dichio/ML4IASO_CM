@@ -23,3 +23,6 @@ venv/
 *.swp
 .env
 .env.*
+
+# Any folder (at any depth) whose name starts with an underscore
+**/_*/

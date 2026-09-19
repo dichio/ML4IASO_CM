@@ -14,7 +14,7 @@ geometry: margin=1in
 - Bishop & Bishop — *Deep Learning: Foundations and Concepts* (2024)
 - Bishop — *Pattern Recognition and Machine Learning* (2006)
 
-**Structure:** The course is organized in two blocks — Supervised Learning (Lectures 2–7) and Unsupervised Learning (Lectures 8–11) — preceded by an introductory lecture, with Lecture 12 held as a buffer.
+**Structure:** The course is organized in two blocks — Supervised Learning (Lectures 2–8) and Unsupervised Learning (Lectures 9–12) — preceded by an introductory lecture.
 
 ---
 
@@ -23,14 +23,14 @@ geometry: margin=1in
 | # | Block | Topic | Reading |
 |---|-------|-------|---------|
 | 1 | — | Introduction; probability and Gaussian toolbox | Bishop & Bishop, §2.1–2.3, §3.2 |
-| 2 | Supervised | Statistical learning: regression/classification, least squares vs. nearest neighbors | ISL, ch. 2 |
+| 2 | Supervised | Statistical learning: regression/classification, least squares vs. nearest neighbors, bias-variance | ISL, ch. 2 |
 | 3 | Supervised | Linear regression | |
 | 4 | Supervised | Classification | |
-| 5 | Supervised | Bias-variance tradeoff and model selection | |
+| 5 | Supervised | Trees and random forests | |
 | 6 | Supervised | Addressing overfitting: regularization, kernels, basis functions | |
-| 7 | Supervised | Support vector machines | |
-| 8 | Unsupervised | Introduction to unsupervised learning; clustering | |
-| 9 | Unsupervised | Principal component analysis and related methods | |
-| 10 | Unsupervised | Graphical models | |
-| 11 | Unsupervised | Mixture models, EM, and hidden Markov models | |
-| 12 | — | Buffer | |
+| 7 | Supervised | Bias-variance tradeoff and model selection | |
+| 8 | Supervised | Support vector machines | |
+| 9 | Unsupervised | Introduction to unsupervised learning; clustering | |
+| 10 | Unsupervised | Principal component analysis and related methods | |
+| 11 | Unsupervised | Graphical models | |
+| 12 | Unsupervised | Mixture models, EM, and hidden Markov models | |
