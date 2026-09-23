@@ -40,8 +40,8 @@ geometry: margin=1in
 | 2 | Supervised | Statistical learning: overview & key-concepts |
 | 3 | Supervised | Linear regression |
 | 4 | Supervised | Classification |
-| 5 | Supervised | Trees and random forests |
-| 6 | Supervised | Addressing overfitting: regularization, kernels, basis functions |
+| 5 | Supervised | Structured models: regularisation, kernels, basis functions|
+| 6 | Supervised | Trees and random forests |
 | 7 | Supervised | Bias-variance tradeoff and model selection |
 | 8 | Supervised | Support vector machines |
 | 9 | Unsupervised | Unsupervised learning; clustering |
