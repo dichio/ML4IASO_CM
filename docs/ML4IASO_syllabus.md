@@ -44,7 +44,7 @@ geometry: margin=1in
 | 6 | Supervised | Trees and random forests |
 | 7 | Supervised | Bias-variance tradeoff and model selection |
 | 8 | Supervised | Support vector machines |
-| 9 | Unsupervised | Unsupervised learning; clustering |
+| 9 | Unsupervised | Overview of Unsupervised learning; clustering |
 | 10 | Unsupervised | Principal component analysis and related methods |
-| 11 | Unsupervised | Graphical models |
+| 11 | Unsupervised | Graphical models & MaxEnt |
 | 12 | Unsupervised | Mixture models, EM, and hidden Markov models |
